@@ -10,8 +10,8 @@
 - **📚ShelfVisor** : YOLO와 OCR을 이용한 도서관 서가의 책 정렬 검사 서비스
 - **💬FeedMeFact** : 인스타 게시물 or 릴스가 팩트인지 / AI 생성물인지 체크해주는 서비스
 
-## 🌱 학습 중
-Spring · Docker · Kubernates · AWS
+## 학습 중
+🌱 Spring · Docker · Kubernates · AWS
 <!--
 **hashZiwa/hashZiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
